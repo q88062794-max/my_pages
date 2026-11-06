@@ -5,6 +5,6 @@ date: 2014-03-27
 comments: true
 archive: false
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+고통 그 자체가 사랑받고, 추구되며, 갈망의 대상이 되기도 합니다.
 
-Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
+배제해야 할 것들—이를테면 쾌락을 좇느라 의무를 저버리거나, 가장 수월한 일만을 골라 하려는 태도—과 관련하여, 우리는 마주하게 되는 더 어려운 도전들을 어떻게 대해야 할까요? 잘못된 길로 빠지기는 쉽지만, 그와는 반대로 가장 쉬운 길을 찾는 대신 고난을 견뎌내기로 선택할 수도 있습니다. 이러한 삶 속에서 우리는 때로—육체적이든 정신적이든—특정한 것들을 거부해야 하며, 설령 그 일이 고되더라도 필요한 바를 감내해야 합니다. 우리는 종종 수반되는 노고를 마주해야 합니다. 그러한 짐에서 벗어나고 싶을지라도, 오히려 마땅히 감당해야 할 몫을 받아들여야 하는 것입니다. 우리는 때로 힘겨운 시기를 견뎌내야 할지도 모릅니다. 하지만 그 누구도 이를 회피해서는 안 됩니다! *Laudantium, tenetur, concipitur!* (찬미하고, 붙들고, 잉태하라!) 이처럼 우리는 비록 처음에는 미움의 대상이 될지라도, 그러한 것들을 추구하고 받아들입니다. 왜냐하면 바로 이런 과정을 통해 새로운 무언가가 탄생할 수 있기 때문입니다! 이는 본질적으로 같은 맥락의 이야기입니다.
